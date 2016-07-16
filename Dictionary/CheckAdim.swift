@@ -28,7 +28,7 @@ class CheckAdim: UIViewController {
     
     @IBAction func check(sender: AnyObject) {
         //tao mat khau
-        if pass.text == "spiderman4996" {
+        if pass.text == "quangly" {
             
             //neu dung mat khau
             let myAlert = UIAlertController(title: "Chúc mừng !", message: "Bạn là Admin !", preferredStyle: .Alert)
